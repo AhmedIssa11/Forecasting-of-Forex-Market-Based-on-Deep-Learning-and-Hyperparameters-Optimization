@@ -21,10 +21,10 @@ The price movement forecast 1400 trading days – figure 3.
 Result of 100 models and their details – figure 4.
 
 ## CONCLUSION
-A predictive model based on real-time series data was developed. The long short-term memory algorithm was selected since it is a well-known algorithm for sequence learning. Also, we tuned the model architecture and hyperparameters using KerasTuner. Finally, we cluster the results and know the characteristics for each cluster. 
+To summarize, a comprehensive automatic system for predicting the index daily closing prices was constructed in this thesis. The decision has been made to use the deep learning technique as well as its different algorithms to develop a solid system that is recognized as a suitable system for different time series data patterns after investigating several techniques to determine the most useful methodology capable of resolving this particular problem. To begin, a predictive model based on real-time series data was developed. The long short-term memory approach was selected and implemented since it is a well-known algorithm for sequence learning methods in many applications. Also, we tuned the model architecture and hyperparameters using KerasTuner. Finally, we cluster the results and know the characteristics for each cluster. In this study, we outperformed previous stock prediction methods from different references. 
 
 ## FUTURE WORK
-many factors influence index movement, including macroeconomic events, market noise, investor attitude, and so on., we believe it is unwise to forecast the price purely based on the index historical data only. we should construct a hybrid model in which we employ sentiment analysis.
+Financial markets are extremely complicated, and many factors influence index price movement, including macroeconomic events, market noise, investor attitude, and so on. so, when developing a deep learning model, we believe it is unwise to forecast the adjusted closing price purely based on the index historical data only. we believe that we should construct a hybrid model in which we employ sentiment analysis, for example, when trying to forecast the index price's volatility, we found that the prediction error was higher when the index price was volatile. As a solution to make the prediction correct and to be able to predict data patterns and at the same time predict the impact of news on the market, we will take into consideration more than just the history of index prices.
 
 
 
