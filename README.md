@@ -14,12 +14,15 @@ Our primary goal is to investigate how well the LSTM algorithm predicts index pr
 Long-and-Short-Term Memory Network (LSTM) – figure 1.
 Find the Optimal Hyperparameters Using KerasTuner – figure 2.
 Cluster the 100 model Hyperparameters table using K-Mean Algorithm.
-![System Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/image.png)
+![Project Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/project_overview.png)
 
 
 ## RESULTS
 The price movement forecast 1400 trading days – figure 3.
 Result of 100 models and their details – figure 4.
+![Best Result](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/best_result.png)
+![Evaluation Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/evaluation_table.png)
+![HP Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/HP_table.png)
 
 ## CONCLUSION
 To summarize, a comprehensive automatic system for predicting the index daily closing prices was constructed in this thesis. The decision has been made to use the deep learning technique as well as its different algorithms to develop a solid system that is recognized as a suitable system for different time series data patterns after investigating several techniques to determine the most useful methodology capable of resolving this particular problem. To begin, a predictive model based on real-time series data was developed. The long short-term memory approach was selected and implemented since it is a well-known algorithm for sequence learning methods in many applications. Also, we tuned the model architecture and hyperparameters using KerasTuner. Finally, we cluster the results and know the characteristics for each cluster. In this study, we outperformed previous stock prediction methods from different references. 
