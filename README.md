@@ -42,7 +42,7 @@ Financial markets are extremely complicated, and many factors influence index pr
 
 #
 This was a short version from my graduation project. For more details, you can check the demo.
-Demo Video : not yet
+#### Demo Video : not yet
 
 
   
