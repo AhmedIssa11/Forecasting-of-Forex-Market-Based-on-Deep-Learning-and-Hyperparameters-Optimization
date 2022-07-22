@@ -14,8 +14,7 @@ Our primary goal is to investigate how well the LSTM algorithm predicts index pr
 - Hybrid model based on Long-and-Short-Term Memory Network (LSTM).
 - Finding the Optimal Hyperparameters Using KerasTuner.
 - Clustering the 100 model Hyperparameters table using K-Mean Algorithm.
-
-![Project Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/project_overview.png)
+- ![Project Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/project_overview.png)
 
 
 ## RESULTS
