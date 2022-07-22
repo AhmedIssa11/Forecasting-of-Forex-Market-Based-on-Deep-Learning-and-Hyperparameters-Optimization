@@ -30,7 +30,8 @@ we will display our model’s accuracy and loss under different conditions and t
 ![Evaluation Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/evaluation_table.png)
 
 ### Clustering 
-The mean value is a useful indicator of data distribution; we will determine the average value, stander division, minimum and maximum for each variable and cluster
+The mean value is a useful indicator of data distribution; we will determine the average value, stander division, minimum and maximum for each variable and cluster.
+
 ![HP Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/HP_table.png)
 
 ## CONCLUSION
