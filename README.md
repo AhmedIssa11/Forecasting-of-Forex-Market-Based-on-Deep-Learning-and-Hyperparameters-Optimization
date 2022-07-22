@@ -14,14 +14,23 @@ Our primary goal is to investigate how well the LSTM algorithm predicts index pr
 - Hybrid model based on Long-and-Short-Term Memory Network (LSTM).
 - Finding the Optimal Hyperparameters Using KerasTuner.
 - Clustering the 100 model Hyperparameters table using K-Mean Algorithm.
+
 ![Project Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/project_overview.png)
 
 
 ## RESULTS
-The price movement forecast 1400 trading days – figure 3.
-Result of 100 models and their details – figure 4.
+- Best Results Cases
+In this case we retrieved the optimal combination of hyperparameters from KerasTuner and retrain the model with it. The figure displays the price movement forecast provided by the model for 1400 trading days when repeatedly fed the network with unseen historical data. In comparison to the actual price, we can observe that the forecast is very close. In most cases it is the same and in other cases the difference is a very small fractional number.
+
 ![Best Result](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/best_result.png)
+
+- Evaluation
+we will display our model’s accuracy and loss under different conditions and the degree of scalability for the hyperparameters and the architecture itself. We will demonstrate models no. 1 to 10, 50 and 100 in performance order so we can see all aspects of our experiment.
+
 ![Evaluation Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/evaluation_table.png)
+
+- Clustering 
+The mean value is a useful indicator of data distribution; we will determine the average value, stander division, minimum and maximum for each variable and cluster
 ![HP Table](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/HP_table.png)
 
 ## CONCLUSION
