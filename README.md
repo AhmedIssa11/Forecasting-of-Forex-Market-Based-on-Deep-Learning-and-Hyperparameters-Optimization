@@ -1,1 +1,1 @@
-# Forecasting-of-Forex-Time-Series-Data-Based-on-Deep-Learning-and-Hyperparameters-Optimization
+# Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization
