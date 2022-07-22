@@ -41,7 +41,8 @@ To summarize, a comprehensive automatic system for predicting the index daily cl
 Financial markets are extremely complicated, and many factors influence index price movement, including macroeconomic events, market noise, investor attitude, and so on. so, when developing a deep learning model, we believe it is unwise to forecast the adjusted closing price purely based on the index historical data only. we believe that we should construct a hybrid model in which we employ sentiment analysis, for example, when trying to forecast the index price's volatility, we found that the prediction error was higher when the index price was volatile. As a solution to make the prediction correct and to be able to predict data patterns and at the same time predict the impact of news on the market, we will take into consideration more than just the history of index prices.
 
 #
-Demo Video :
+This was a short version from my graduation project. For more details, you can check the demo.
+Demo Video : not yet
 
 
   
