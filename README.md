@@ -11,9 +11,9 @@ In this study, we will see if it is possible to create a model using a Long and 
 Our primary goal is to investigate how well the LSTM algorithm predicts index prices. Therefore, the real question is not about whether they work or not, but rather how well an LSTM model can forecast the index adjusted closing price and determine the error percentage compared to the actual data.  
 
 ## METHODS
-Long-and-Short-Term Memory Network (LSTM).
-Find the Optimal Hyperparameters Using KerasTuner.
-Cluster the 100 model Hyperparameters table using K-Mean Algorithm.
+- Hybrid model based on Long-and-Short-Term Memory Network (LSTM).
+- Finding the Optimal Hyperparameters Using KerasTuner.
+- Clustering the 100 model Hyperparameters table using K-Mean Algorithm.
 
 ![Project Overview](https://github.com/AhmedIssa11/Forecasting-of-Forex-Market-Based-on-Deep-Learning-and-Hyperparameters-Optimization/blob/main/project_overview.png)
 
